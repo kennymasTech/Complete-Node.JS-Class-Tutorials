@@ -1,0 +1,10 @@
+Hola, my people how are u20231009	17:03:11	9c1edd2e-2ea5-4532-9b82-463eea61a8b7	Error: Not allowed by CORS
+20231009	17:03:11	964e90a5-344c-4012-8797-911a8bae4595	Error: Not allowed by CORS
+20231009	17:03:57	92648f19-4aaf-4ac5-95b3-891f8c19b1cd	Error: Not allowed by CORS
+20231009	17:03:57	0badfcbe-9792-44cd-a2f2-3fa8b3e567b5	Error: Not allowed by CORS
+20231009	17:09:15	bd499291-59b6-4b28-b7f7-9d69c14b471f	Error: Not allowed by CORS
+20231009	17:09:23	25153873-1e9f-4d05-98a8-5f73eb66b7c8	Error: Not allowed by CORS
+20231009	17:10:46	60cf4a44-02e6-4029-bebf-1655f89d3341	Error: Not allowed by CORS
+20231010	12:46:21	ae0094bd-c619-497d-8668-e0ae57a9dc10	Error: ENOENT: no such file or directory, stat 'C:\Users\Abiodun Kennymas\Desktop\MY_WEB\nodejs\lesson-8\routes\views\index.html'
+20231010	12:46:22	b54cef34-00a1-4f11-b7a2-b8abfbff4b27	Error: ENOENT: no such file or directory, stat 'C:\Users\Abiodun Kennymas\Desktop\MY_WEB\nodejs\lesson-8\routes\views\index.html'
+20231010	16:27:20	51faca6c-8d5d-41a2-9caf-8071a2e3e1c5	SyntaxError: Unexpected token } in JSON at position 13

@@ -1,0 +1,47 @@
+My name is Kennyams20231009	15:46:22	57bc2697-57bc-43fe-a3ab-5acf70ac9b13	GET	 undefined	 /
+
+20231009	15:46:22	d055edba-166d-4228-9fda-a9d2d2ca16b8	GET	 undefined	 /favicon.ico
+
+20231009	15:54:55	46f1d23b-9ce6-4f1d-a078-04eaa7f2cd27	OPTIONS	 https://www.google.com	 /
+
+20231009	15:54:55	35b001ed-6621-4b26-bcd8-dc217dca4681	GET	 https://www.google.com	 /
+
+20231009	15:57:13	b0de4c65-5cdb-4cae-94e1-5d9df6ee2fa1	OPTIONS	 https://www.google.com	 /
+20231009	15:57:13	8dd3d9ae-3be1-49ea-bebb-4423bd2fadcc	GET	 https://www.google.com	 /
+20231009	16:13:11	bf3ee0a9-0384-4f5f-8d81-e4b4382b2e82	OPTIONS	 https://www.google.com	 /
+20231009	16:13:11	c787babc-a949-4ef0-aab1-e0babfbe9fa2	GET	 https://www.google.com	 /
+20231009	16:14:48	23724194-80bc-41a1-8124-c9721bac8049	GET	 undefined	 /
+20231009	16:15:06	d94a860c-1447-4ac3-9afd-1d687a91138f	GET	 undefined	 /
+20231009	16:16:21	273bce84-2efb-4afa-bcc5-26ecb84f4b32	GET	 undefined	 /
+20231009	16:16:30	bb148637-167e-4faf-ab79-1a50419eb21b	GET	 undefined	 /
+20231009	16:27:45	210e8181-8a52-426d-b0c9-069ecf205f95	GET	 undefined	 /
+20231009	16:27:51	96e18e08-f8a4-49e7-ac08-583afff67841	GET	 undefined	 /
+20231009	16:30:23	740b6686-3d15-4904-95dc-08f9d8d239ac	GET	 undefined	 /
+20231009	16:30:31	07d9ec3d-5b73-429b-ab25-3922fde0780e	GET	 undefined	 /
+20231009	16:31:20	9dc8a07a-a031-4a50-9edb-15f8cdc6bb34	GET	 undefined	 /
+20231009	16:33:03	aa5832d8-ec26-46d6-a180-b2c6fac2761a	GET	 undefined	 /
+20231009	16:33:10	335a27ed-0bf4-42b9-b8c0-44cde56871de	GET	 undefined	 /
+20231009	16:35:40	a1e41b9b-67b0-463a-8903-9834ad7a2199	OPTIONS	 https://www.google.com	 /
+20231009	16:35:40	39bfde67-34cd-494b-9ecc-35ac809896dd	GET	 https://www.google.com	 /
+20231009	16:36:09	3fae9039-404c-4849-9bab-382338063b75	OPTIONS	 https://www.google.com	 /
+20231009	16:36:09	bb0e0ed3-003b-4b7e-b487-c4a60569e2f7	GET	 https://www.google.com	 /
+20231009	16:46:15	c61f2899-959d-40a3-ba47-95d27ac67d4c	OPTIONS	 https://www.google.com	 /
+20231009	16:46:15	8e4f4979-888d-46e1-bfee-a689d7a3e0b5	GET	 https://www.google.com	 /
+20231009	17:03:11	2640d695-1675-4031-b254-6f685111f1eb	OPTIONS	 https://www.google.com	 /
+20231009	17:03:11	25141ace-fac2-46ca-abca-b914e79c127e	GET	 https://www.google.com	 /
+20231009	17:03:57	83aa7e91-709c-4952-a3dd-8cf85667a1ae	OPTIONS	 https://www.google.com	 /
+20231009	17:03:57	0a49af16-6b5e-4eb5-a164-2e0bdbcd19d5	GET	 https://www.google.com	 /
+20231009	17:05:57	9319c307-fc69-4162-97ab-933ba2f8f529	GET	 undefined	 /
+20231009	17:06:03	8f0c4fd3-0f2b-4a71-b57c-0eabbe303314	GET	 undefined	 /
+20231009	17:09:15	bc41cf0f-819b-451d-8cf9-fc2c8fb25355	GET	 undefined	 /new-page
+20231009	17:09:23	3fa63e44-94ed-4343-b6c6-64a8649efcbe	GET	 undefined	 /
+20231009	17:09:52	c5d63a29-8509-421f-a201-90b6b52cd4aa	GET	 undefined	 /new-page
+20231009	17:10:05	4a50c456-3373-4a70-a8b4-f5cc0f3640b4	GET	 undefined	 /
+20231009	17:10:39	0f12dd74-cac1-444a-8923-412a5318ef6a	GET	 undefined	 /testing-page
+20231009	17:10:40	199885c1-7a1f-4769-baa3-f012a735c8b0	GET	 undefined	 /testing-page
+20231009	17:10:45	c4a7b31e-48bc-465c-b5ec-46762f23e0ac	GET	 undefined	 /testing-page
+20231009	17:10:46	b5922e8d-1a29-4380-8360-2d3a68b3298a	GET	 null	 /
+20231009	17:11:02	037b08e1-c8c9-4be9-b6d6-7681d5500112	GET	 undefined	 /
+20231009	17:15:52	b9c81f5b-2d01-499c-b61e-62dedcc74157	GET	 undefined	 /
+20231009	17:15:59	953fffa0-792f-42f3-acf2-ecba60cd2ecc	GET	 undefined	 /
+20231010	15:46:26	1c78ec64-e798-4f4b-9740-08ab41c2fe66	GET	 undefined	 /new-page

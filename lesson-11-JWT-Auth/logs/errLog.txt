@@ -1,0 +1,21 @@
+Hola, my people how are u20231009	17:03:11	9c1edd2e-2ea5-4532-9b82-463eea61a8b7	Error: Not allowed by CORS
+20231009	17:03:11	964e90a5-344c-4012-8797-911a8bae4595	Error: Not allowed by CORS
+20231009	17:03:57	92648f19-4aaf-4ac5-95b3-891f8c19b1cd	Error: Not allowed by CORS
+20231009	17:03:57	0badfcbe-9792-44cd-a2f2-3fa8b3e567b5	Error: Not allowed by CORS
+20231009	17:09:15	bd499291-59b6-4b28-b7f7-9d69c14b471f	Error: Not allowed by CORS
+20231009	17:09:23	25153873-1e9f-4d05-98a8-5f73eb66b7c8	Error: Not allowed by CORS
+20231009	17:10:46	60cf4a44-02e6-4029-bebf-1655f89d3341	Error: Not allowed by CORS
+20231010	12:46:21	ae0094bd-c619-497d-8668-e0ae57a9dc10	Error: ENOENT: no such file or directory, stat 'C:\Users\Abiodun Kennymas\Desktop\MY_WEB\nodejs\lesson-8\routes\views\index.html'
+20231010	12:46:22	b54cef34-00a1-4f11-b7a2-b8abfbff4b27	Error: ENOENT: no such file or directory, stat 'C:\Users\Abiodun Kennymas\Desktop\MY_WEB\nodejs\lesson-8\routes\views\index.html'
+20231010	16:27:20	51faca6c-8d5d-41a2-9caf-8071a2e3e1c5	SyntaxError: Unexpected token } in JSON at position 13
+20231011	12:52:03	7086ad5b-8e1d-43ce-9c6b-0c6da626acb8	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:52:29	50aaf1ad-9c4c-444d-8f65-5d3ae45e8c00	SyntaxError: Unexpected string in JSON at position 9
+20231011	12:53:12	4bf2a660-85df-4134-8e71-f6a319a04a17	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:53:12	5ae5b892-5679-4a67-b7ce-4c75538fa606	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:54:08	f4a139b2-f376-4c8b-8ade-c88a249be487	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	13:03:38	e97b4342-02e9-4275-88e9-c953c8259ea1	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	16:13:11	a82acedc-08d5-4f7d-a764-ff30e7d6d605	SyntaxError: Unexpected token u in JSON at position 1
+20231011	16:15:00	bb642498-1835-4c29-ba42-03a118948318	SyntaxError: Unexpected token u in JSON at position 1
+20231011	16:16:46	9044d3f5-5caf-4938-9cbc-4372152c2750	SyntaxError: Unexpected token u in JSON at position 1
+20231011	16:17:02	da22510f-1067-4368-be1b-6d4f18d21ed6	SyntaxError: Unexpected token u in JSON at position 1
+20231016	09:47:45	dc8888a8-f105-42a5-81bc-46a849b92354	SyntaxError: Unexpected token } in JSON at position 88

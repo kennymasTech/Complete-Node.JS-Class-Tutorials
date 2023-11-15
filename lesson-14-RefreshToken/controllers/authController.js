@@ -14,7 +14,7 @@
     // evaluate password 
     const match = await bcrypt.compare(pwd, foundUser.password);
     if (match) {
-      const roles = Object.values(foundUser.roles)
+      const roles = Object.values(foundUser.roles).filter(Boolean)
         // create JWTs
         const accessToken = jwt.sign(
             { 
@@ -45,7 +45,7 @@
 
         console.log(result);
         res.cookie('jwt', newRefreshToken, { httpOnly: true, sameSite: 'None', maxAge: 24 * 60 * 60 * 1000 });
-        res.json({ accessToken });   // secure: true, 
+        res.json({ roles, accessToken });   // secure: true, 
     } else {
         res.sendStatus(401);
     }

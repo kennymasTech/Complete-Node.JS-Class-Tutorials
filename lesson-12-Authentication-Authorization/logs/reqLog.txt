@@ -60,3 +60,7 @@
 20231114	11:23:01	ad17338a-791f-4e42-bd1a-ebfd09991374	POST	http://localhost:5173	/auth
 20231114	11:25:14	5743e45d-5b8b-4304-9410-79513c07f37a	OPTIONS	http://localhost:5173	/auth
 20231114	11:25:14	b254d2c8-6c7b-491e-9394-c74b76710d70	POST	http://localhost:5173	/auth
+20231115	12:53:26	ba9f8907-f99f-4ab6-9633-fc58b5ce9e52	OPTIONS	http://localhost:5173	/auth
+20231115	12:53:26	8ce931fd-6a93-413c-a158-af8e8d38f94e	POST	http://localhost:5173	/auth
+20231115	12:54:35	b5eccd13-4fec-4076-80ba-76ed35d0f25d	OPTIONS	http://localhost:5173	/auth
+20231115	12:54:35	5a5c8372-be6b-443e-9e69-11805a09aa6a	POST	http://localhost:5173	/auth
